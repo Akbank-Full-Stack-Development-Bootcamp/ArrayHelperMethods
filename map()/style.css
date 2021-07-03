@@ -53,7 +53,9 @@ div.modal-content{
 
 }
 
-
+.close {
+    font-size: 23x;
+}
 #btnx{
     width: 30px;
     height: 30px;
