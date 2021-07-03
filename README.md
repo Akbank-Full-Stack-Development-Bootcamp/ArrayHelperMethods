@@ -33,3 +33,6 @@ metotlarına yer verilecektir.
 * Makale : [JavaScript map() Metodu ][map()]
 
 [map()]:https://busraltunb.medium.com/javascript-in-g%C3%B6z-bebe%C4%9Fi-map-38670400b5e2 "Açıklama Metni"
+
+#### map() metodunu kullanarak isimleri birleştirip butona tıklanıldığında kimlerin çalıştığını gösteren bir çalışma gerçekleştirdim
+[![png](https://miro.medium.com/max/700/1*hsy-Vpb-BhT-LeRVa8LK4Q.png)]
