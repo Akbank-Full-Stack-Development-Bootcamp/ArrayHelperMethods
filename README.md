@@ -6,7 +6,7 @@
 * filter ()
 * find ()
 
-metotlarına yer verilecektir.
+metotlarına yer verilecektir. İlk olarak Javacript üzerinde çalışma yapıp daha sonra js dosyalarında React kullanacağım.
 
 # Yapılan Çalışmalar / Projeler
 
