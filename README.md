@@ -23,3 +23,13 @@ metotlarına yer verilecektir.
 
 [![Watch the video](https://istanbulfotograf.com/wp-content/uploads/2019/08/online-live-video-marketing-concept_12892-37.jpg)](https://youtu.be/uv9MGDj0vSE)
  
+## Basit Kart Üzerinde İsimler Gösterme-map()
+
+### Kullanılan Teknolojiler
+* Html
+* CSS
+* JavaScript
+* Bootstrap
+* Makale : [JavaScript map() Metodu ][map()]
+
+[map()]:https://busraltunb.medium.com/javascript-in-g%C3%B6z-bebe%C4%9Fi-map-38670400b5e2 "Açıklama Metni"
