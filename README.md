@@ -36,3 +36,8 @@ metotlarına yer verilecektir. İlk olarak Javacript üzerinde çalışma yapıp
 
 #### map() metodunu kullanarak isimleri birleştirip butona tıklanıldığında kimlerin çalıştığını gösteren bir çalışma gerçekleştirdim
 [![png](https://miro.medium.com/max/700/1*hsy-Vpb-BhT-LeRVa8LK4Q.png)]
+
+## reduce()
+* Makale : [JavaScript reduce() Metodu ][reduce()]
+
+[reduce()]:https://busraltunb.medium.com/javascriptin-can%C4%B1-ci%C4%9Feri-reduce-db72946c1622 "Açıklama Metni"
